@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Wselennaia",
 		"leaderName": "Zyxxyz",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["sunny"],
+		"preferredVictoryType": "General",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "..xxx..!",
+		"startIntroPart2": "Well,hello,bro,you couldn't escape,could you?",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
